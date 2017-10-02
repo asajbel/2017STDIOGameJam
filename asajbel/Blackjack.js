@@ -24,7 +24,7 @@ intro();
 function intro() {
   s = state[0];
   var text =
-  "This is a game of Blackjack. You start with $1000. The rules for the game can\
+  "Did this merge? This is a game of Blackjack. You start with $1000. The rules for the game can\
   be found at " +
   "<a href='http://www.bicyclecards.com/how-to-play/blackjack/'>\
   http://www.bicyclecards.com/how-to-play/blackjack/</a>"
